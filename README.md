@@ -1,4 +1,4 @@
-### Hi guys, I'm Danny!
+## Hi guys, I'm Danny!
 
 🚀 Fresh Graduate | Data Analyst | Aspiring Data Scientist
 
