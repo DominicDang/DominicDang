@@ -1,4 +1,4 @@
-## Hi guys, I'm Danny!
+## Hi guys, I'm Anh Duy!
 
 🚀 Fresh Graduate | Data Analyst | Aspiring Data Scientist
 
@@ -10,6 +10,7 @@
 
 💡 Love solving real-world problems through data-driven decisions and continuous learning.
 
-👨‍💻 Constantly sharpening my skills in Python, SQL, and visualization tools like Power BI and Tableau.
-
 🌱 Always curious, eager to collaborate, and open to new opportunities!
+
+
+[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/DominicDang)
