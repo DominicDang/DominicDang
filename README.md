@@ -13,4 +13,4 @@
 🌱 Always curious, eager to collaborate, and open to new opportunities!
 
 
-[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/DominicDang)
+[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominicDang)](https://github.com/DominicDang)
