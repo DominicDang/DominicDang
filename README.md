@@ -1,4 +1,4 @@
-## Hi guys, I'm Anh Duy!
+## Hi guys, I'm Danny!
 
 🚀 Fresh Graduate | Data Analyst | Aspiring Data Scientist
 
@@ -13,4 +13,4 @@
 🌱 Always curious, eager to collaborate, and open to new opportunities!
 
 
-[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominicDang)](https://github.com/DominicDang)
+[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominicDang)](https://github.com/dominicdang/github-readme-stats)
